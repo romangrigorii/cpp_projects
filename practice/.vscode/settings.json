@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "addtwonumbers": "c",
+        "memory": "c",
+        "vector": "c",
+        "numeric": "c",
+        "iostream": "cpp",
+        "utility": "cpp",
+        "xstring": "cpp"
+    }
+}

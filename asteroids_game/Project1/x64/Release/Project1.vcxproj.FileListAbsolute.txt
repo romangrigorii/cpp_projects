@@ -1,0 +1,2 @@
+C:\Users\atrox\Desktop\asteroids\Project1\x64\Release\Project1.exe
+C:\Users\atrox\Desktop\L2C\learning Cpp\asteroids_game\Project1\x64\Release\Project1.exe
