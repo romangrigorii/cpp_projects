@@ -1,0 +1,2 @@
+when needing to ignore the output for a function without getting a warning, wrap the function call in UNUSED macro:
+#define UNUSED(x) ((void)x)
